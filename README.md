@@ -8,7 +8,7 @@ I've been learning to code seriously for 5 years. I've started with C# but now I
 
 * 🌍  I'm based in Ludwin Poland
 * ✉️  You can contact me at [CZECHKUB@WP.PL](mailto:CZECHKUB@WP.PL)
-* 🧠  I'm learning Java and web 3
+* 🧠  I'm learning Java and web3
 
 ### Skills
 
