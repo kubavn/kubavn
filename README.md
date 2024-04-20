@@ -1,4 +1,4 @@
-Hi 👋 My name is Jakub Czech
+Hi 👋 My name is Jakub
 ============================
 
 Starter programer
